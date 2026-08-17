@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator_info_name="XMLTV Generator" generator_info_url="https://mi.tv">
+<channel id="Disney Channel Latin America (1080p)">
+<display-name>Disney Channel Latin America (1080p)</display-name>
+</channel>
+<programme start="20260816195600 -0500" stop="20260816202800 -0500" channel="Disney Channel Latin America (1080p)">
+<title lang="es">Prodigiosa: las aventuras de Ladybug</title>
+<sub-title lang="es">Perfección</sub-title>
+<desc lang="es">Cuando los amigos de Marinette deciden ayudarla a acercarse a Adrien, toda la pandilla descubre que siempre hay que ser claros con los amigos.</desc>
+<episode-num system="onscreen">T5 E12</episode-num>
+<episode-num system="xmltv_ns">4.11.</episode-num>
+</programme>
+<programme start="20260816202800 -0500" stop="20260816204500 -0500" channel="Disney Channel Latin America (1080p)">
+<title lang="es">Star vs. Las fuerzas del mal</title>
+<sub-title lang="es">Es un misterio</sub-title>
+<desc lang="es">Sapo-Toro es capturado por Ludo para trabajar prisionero en la fábrica de maíz. Finalmente, logra escapar de allí pero Ludo le ofrece un puesto de trabajo ya en libertad.</desc>
+<episode-num system="onscreen">T2 E10</episode-num>
+<episode-num system="xmltv_ns">1.9.</episode-num>
+</programme>
+<programme start="20260816204500 -0500" stop="20260816212800 -0500" channel="Disney Channel Latin America (1080p)">
+<title lang="es">Selenkay</title>
+<sub-title lang="es">... porque te vas a quemar</sub-title>
+<desc lang="es">Habiendo confirmado que Navera le miente, Sofía se acerca a Kiran, quien le cuenta sobre Aurora. Mientras tanto, Tacu y Diana continúan investigando los extraños sucesos en el pueblo y se encargan de una Emilia muy afectada.</desc>
+<episode-num system="onscreen">T2 E6</episode-num>
+<episode-num system="xmltv_ns">1.5.</episode-num>
+</programme>
+<programme start="20260816212800 -0500" stop="20260816215900 -0500" channel="Disney Channel Latin America (1080p)">
+<title lang="es">Secretos en Sulphur Springs</title>
+<sub-title lang="es">El tiempo no espera a nadie</sub-title>
+<desc lang="es">En 1947, Harper y Griffin conocen a Ruby y Sarah se asusta cada vez más por el fantasma.</desc>
+<episode-num system="onscreen">T3 E24</episode-num>
+<episode-num system="xmltv_ns">2.23.</episode-num>
+</programme>
+<programme start="20260816215900 -0500" stop="20260816222800 -0500" channel="Disney Channel Latin America (1080p)">
+<title lang="es">Hannah Montana</title>
+<sub-title lang="es">Es mi fiesta y mentiré si quiero</sub-title>
+<desc lang="es">Lilly está avergonzando a Miley, así que ella le miente acerca de ir a la fiesta de cumpleaños de Kelly Clarkson. Mientras tanto, un fotógrafo capta a Hannah saliendo temprano y se publica en la portada.</desc>
+<episode-num system="onscreen">T1 E5</episode-num>
+<episode-num system="xmltv_ns">0.4.</episode-num>
+</programme>
+<programme start="20260816222800 -0500" stop="20260816225900 -0500" channel="Disney Channel Latin America (1080p)">
+<title lang="es">Jonas</title>
+<sub-title lang="es">Beauty and the Beat</sub-title>
+<desc lang="es">Para concurso anual de Miss Adolescente Más Asombrosa, Kevin, Joe y Nick podrán elegir a la encantadora ganadora. Su trabajo soñado se convierte en una pesadilla después de que Stella haga el ridículo durante</desc>
+<episode-num system="onscreen">T1 E20</episode-num>
+<episode-num system="xmltv_ns">0.19.</episode-num>
+</programme>
+<programme start="20260816225900 -0500" stop="20260816232900 -0500" channel="Disney Channel Latin America (1080p)">
+<title lang="es">Austin y Ally</title>
+<sub-title lang="es">Bohemios y obsequios</sub-title>
+<desc lang="es">Austin descubre que el hombre que toca la guitarra en el centro comercial a cambio de monedas es uno de sus héroes de rock and roll favoritos.</desc>
+<episode-num system="onscreen">T2 E22</episode-num>
+<episode-num system="xmltv_ns">1.21.</episode-num>
+</programme>
+<programme start="20260816232900 -0500" stop="20260816235700 -0500" channel="Disney Channel Latin America (1080p)">
+<title lang="es">Electric Bloom: La mejor banda del mundo</title>
+<sub-title lang="es">Cómo (no) hacer un video musical</sub-title>
+<desc lang="es">Mientras planean el primer video musical de Electric Bloom, Jade y Posey pasan por alto a Tulip como una posible líder de la banda, lo que provoca que su alter ego Trixie emerja y cause estragos.</desc>
+<episode-num system="onscreen">T1 E7</episode-num>
+<episode-num system="xmltv_ns">0.6.</episode-num>
+</programme>
+<programme start="20260816235700 -0500" stop="20260817003700 -0500" channel="Disney Channel Latin America (1080p)">
+<title lang="es">Art Attack: modo desafío</title>
+<sub-title lang="es">Un reto espeluznante</sub-title>
+<desc lang="es">Los asaltantes del arte tienen un día espeluznante: transformarán el taller en una aterradora mansión para recibir a dos invitados sorpresa.</desc>
+<episode-num system="onscreen">T1 E4</episode-num>
+<episode-num system="xmltv_ns">0.3.</episode-num>
+</programme>
+<programme start="20260817003700 -0500" stop="20260817010100 -0500" channel="Disney Channel Latin America (1080p)">
+<title lang="es">ZOMBIES: La serie re-animada</title>
+<sub-title lang="es">Mini bruja / Los juegos de la cacería</sub-title>
+<desc lang="es">La falta de confianza en sí misma de Dae hace que se encoja. / El cazador de monstruos Harley regresa a Seabrook e intenta destruir la piedra lunar de los hombres lobo.</desc>
+<episode-num system="onscreen">T1 E15</episode-num>
+<episode-num system="xmltv_ns">0.14.</episode-num>
+</programme>
+<programme start="20260817010100 -0500" stop="20260817012500 -0500" channel="Disney Channel Latin America (1080p)">
+<title lang="es">Acampados</title>
+<sub-title lang="es">Bailando a rabiar</sub-title>
+<desc lang="es">Por accidente, Mavis convierte a Wendy en una versión descomunal y engreída de sí misma. / El amor de adolescencia de Mavis, Jett Black, visita el hotel.</desc>
+<episode-num system="onscreen">T5 E101</episode-num>
+<episode-num system="xmltv_ns">4.100.</episode-num>
+</programme>
+<programme start="20260817012500 -0500" stop="20260817014800 -0500" channel="Disney Channel Latin America (1080p)">
+<title lang="es">Jessie</title>
+<sub-title lang="es">El bienve-día de Zuri</sub-title>
+<desc lang="es">La familia Ross nombra a Jessie como responsable a cargo de las decoraciones para una fiesta que celebrará el aniversario de la adopción de Zuri. Mientras, Ravi descubre sorpresivas noticias acerca de su propia adopción.</desc>
+<episode-num system="onscreen">T1 E17</episode-num>
+<episode-num system="xmltv_ns">0.16.</episode-num>
+</programme>
+<programme start="20260817014800 -0500" stop="20260817021100 -0500" channel="Disney Channel Latin America (1080p)">
+<title lang="es">Prodigiosa: las aventuras de Ladybug</title>
+<sub-title lang="es">Riposte</sub-title>
+<desc lang="es">En la cancha de esgrima, Marinette tiene esperanzas de unirse para impresionar a Adrien. Armand asigna a los nuevos reclutas para que se emparejen con los de experiencia.</desc>
+<episode-num system="onscreen">T2 E4</episode-num>
+<episode-num system="xmltv_ns">1.3.</episode-num>
+</programme>
+<programme start="20260817021100 -0500" stop="20260817023400 -0500" channel="Disney Channel Latin America (1080p)">
+<title lang="es">Star vs. Las fuerzas del mal</title>
+<sub-title lang="es">Mi nueva varita / Ludo salvaje</sub-title>
+<desc lang="es">Star debe aprender cómo liberar a Marco de un clóset cerrado con magia; tras ser lanzado a la naturaleza, Ludo debe enfrentarse a los elementos.</desc>
+<episode-num system="onscreen">T2 E1</episode-num>
+<episode-num system="xmltv_ns">1.0.</episode-num>
+</programme>
+<programme start="20260817023400 -0500" stop="20260817025700 -0500" channel="Disney Channel Latin America (1080p)">
+<title lang="es">Anfibilandia</title>
+<sub-title lang="es">El gran partido de insectobol / Campo de combate</sub-title>
+<desc lang="es">Anne debe aprender el valor del trabajo en equipo para ganar el juego anual de Bugball de la ciudad. / Anne, Sprig y Polly se ven obligadas a quedarse en una guardería que resulta ser más de lo que parece.</desc>
+<episode-num system="onscreen">T1 E18</episode-num>
+<episode-num system="xmltv_ns">0.17.</episode-num>
+</programme>
+<programme start="20260817025700 -0500" stop="20260817051100 -0500" channel="Disney Channel Latin America (1080p)">
+<title lang="es">Phineas y Ferb</title>
+<sub-title lang="es">Un juego helado / Feliz Año Nuevo</sub-title>
+<desc lang="es">La súper estrella de la NHL, Luc Robitaille, ofrece su ayuda cuando Phineas y Ferb juegan en un partido de hockey sobre hielo al extremo. Por otro lado Phineas y Ferb planean un espectáculo sobre hielo.</desc>
+<episode-num system="onscreen">T4 E1</episode-num>
+<episode-num system="xmltv_ns">3.0.</episode-num>
+</programme>
+<programme start="20260817051100 -0500" stop="20260817052200 -0500" channel="Disney Channel Latin America (1080p)">
+<title lang="es">Cortos Mickey Mouse</title>
+<sub-title lang="es">Salida de emergencia / Desde adentro / Lío en el tranvía</sub-title>
+<desc lang="es">Mickey ve humo salir por la ventana de la casa de Minnie y se da cuenta de que hay un incendio. / Mickey y Goofy son encogidos por un rayo menguante. / Mickey y Minnie intentan detener un tranvía.</desc>
+<episode-num system="onscreen">T2 E1</episode-num>
+<episode-num system="xmltv_ns">1.0.</episode-num>
+</programme>
+<programme start="20260817052200 -0500" stop="20260817055000 -0500" channel="Disney Channel Latin America (1080p)">
+<title lang="es">Phineas y Ferb</title>
+<sub-title lang="es">Adolescentes - Partes 1 y 2</sub-title>
+<desc lang="es">En este episodio especial que transcurre dentro de diez años, un Phineas adolescente debe decidir entre dos universidades mientras lidia con el descubrimiento de que Isabella está enamorada de él desde que son niños.</desc>
+<episode-num system="onscreen">T4 E29</episode-num>
+<episode-num system="xmltv_ns">3.28.</episode-num>
+</programme>
+<programme start="20260817055000 -0500" stop="20260817060300 -0500" channel="Disney Channel Latin America (1080p)">
+<title lang="es">Phineas y Ferb</title>
+<sub-title lang="es">Oca loca</sub-title>
+<desc lang="es">Phineas, Ferb y la pandilla construyen una versión gigante de un juego infantil.</desc>
+<episode-num system="onscreen">T3 E151</episode-num>
+<episode-num system="xmltv_ns">2.150.</episode-num>
+</programme>
+<programme start="20260817060300 -0500" stop="20260817063800 -0500" channel="Disney Channel Latin America (1080p)">
+<title lang="es">Gravity Falls: un verano de misterios</title>
+<sub-title lang="es">La historia de los dos Stan</sub-title>
+<desc lang="es">Los hermanos Pine, Stanford y Stanley, se vuelven a encontrar. Se verán recuerdos del pasado y se conocerá más sobre la historia de ambos.</desc>
+<episode-num system="onscreen">T2 E12</episode-num>
+<episode-num system="xmltv_ns">1.11.</episode-num>
+</programme>
+<programme start="20260817063800 -0500" stop="20260817070500 -0500" channel="Disney Channel Latin America (1080p)">
+<title lang="es">Los Green en la gran ciudad</title>
+<sub-title lang="es">Abandonado / El dotado</sub-title>
+<desc lang="es">Cricket invita a su familia a una cena, pero a Bill le preocupa cómo la pagará. / Pensando que Bill está mintiendo acerca de los regalos del Día del Padre de Cricket y piensa que son terribles, Tilly intenta demostrar que está equivocado.</desc>
+<episode-num system="onscreen">T2 E41</episode-num>
+<episode-num system="xmltv_ns">1.40.</episode-num>
+</programme>
+<programme start="20260817070500 -0500" stop="20260817073300 -0500" channel="Disney Channel Latin America (1080p)">
+<title lang="es">Kiff</title>
+<sub-title lang="es">Tío Pat a Cargo / Súper Catorce</sub-title>
+<desc lang="es">El tío Pat se toma muy en serio el cuidado de Kiff. Barry se encarga de organizar una fiesta de 14 años para su primo.</desc>
+<episode-num system="onscreen">T2 E24</episode-num>
+<episode-num system="xmltv_ns">1.23.</episode-num>
+</programme>
+<programme start="20260817073300 -0500" stop="20260817080200 -0500" channel="Disney Channel Latin America (1080p)">
+<title lang="es">Anfibilandia</title>
+<sub-title lang="es">Rescatando a Polly / Un tráiler llamado deseo</sub-title>
+<desc lang="es">Polly comienza a portarse mal y convertirse en una molestia para la familia. Por otro lado, Anne y los Plantar conocen a un grupo de actores dirigido por la famosa actriz y dramaturga Renee Frodgers.</desc>
+<episode-num system="onscreen">T2 E3</episode-num>
+<episode-num system="xmltv_ns">1.2.</episode-num>
+</programme>
+<programme start="20260817080200 -0500" stop="20260817083000 -0500" channel="Disney Channel Latin America (1080p)">
+<title lang="es">Hamster &amp; Gretel</title>
+<sub-title lang="es">Pienso, por tanto, golpeo / No más bromas, gracias</sub-title>
+<desc lang="es">Gretel intenta pasar el tiempo con los chicos populares, mientras a su vez, debe protegerlos de una mascota caída en desgracia. / El deseo de Kevin y Anthony, es estar en un show de bromas. Pero este proyecto termina arriesgando su amistad.</desc>
+<episode-num system="onscreen">T2 E7</episode-num>
+<episode-num system="xmltv_ns">1.6.</episode-num>
+</programme>
+<programme start="20260817083000 -0500" stop="20260817090000 -0500" channel="Disney Channel Latin America (1080p)">
+<title lang="es">El fantasma y Molly McGee</title>
+<sub-title lang="es">El fantasma es Molly McGee / Todo está en la mente</sub-title>
+<desc lang="es">Molly y Scratch acuerdan un intercambio de cuerpos para ayudarse mutuamente. / Molly y Scratch hacen un viaje surrealista a la mente de Scratch.</desc>
+<episode-num system="onscreen">T2 E12</episode-num>
+<episode-num system="xmltv_ns">1.11.</episode-num>
+</programme>
+<programme start="20260817090000 -0500" stop="20260817093000 -0500" channel="Disney Channel Latin America (1080p)">
+<title lang="es">StuGo</title>
+<sub-title lang="es">Desayuno en Chippany's / El guardián de los pájaros</sub-title>
+<desc lang="es">Chip quiere preparar un desayuno que dejará atónitos a sus amigos. / Larry salva a un lagarto bebé y jura protegerlo de todo daño.</desc>
+<episode-num system="onscreen">T1 E4</episode-num>
+<episode-num system="xmltv_ns">0.3.</episode-num>
+</programme>
+<programme start="20260817093000 -0500" stop="20260817100000 -0500" channel="Disney Channel Latin America (1080p)">
+<title lang="es">ZOMBIES: La serie re-animada</title>
+<sub-title lang="es">Un mini bar demasiado lejos/ El Ter-men-nator</sub-title>
+<desc lang="es">Zed y sus amigos encuentran un mini refrigerador, pero es demasiado pequeño para compartirlo. / Bree quiere ingresar al Salón de la Fama de las Porristas, pero un comentario negativo destruye su confianza.</desc>
+<episode-num system="onscreen">T1 E16</episode-num>
+<episode-num system="xmltv_ns">0.15.</episode-num>
+</programme>
+<programme start="20260817100000 -0500" stop="20260817103000 -0500" channel="Disney Channel Latin America (1080p)">
+<title lang="es">Phineas y Ferb</title>
+<sub-title lang="es">El ataque de la gigante Candace / El acuario de Phineas</sub-title>
+<desc lang="es">Cuando Baljeet entra en un concurso de cultivo de verduras en la feria local, Phineas y Ferb inventan una poción para acelerar el proceso de cultivo.</desc>
+<episode-num system="onscreen">T2 E3</episode-num>
+<episode-num system="xmltv_ns">1.2.</episode-num>
+</programme>
+<programme start="20260817103000 -0500" stop="20260817110000 -0500" channel="Disney Channel Latin America (1080p)">
+<title lang="es">Prodigiosa: las aventuras de Ladybug</title>
+<sub-title lang="es">Glaciador 2</sub-title>
+<desc lang="es">Ladybug descubre que ella y Cat Noir han sido nombrados pareja favorita del año. Marinette practica cómo confesarle sus sentimientos a Adrien.</desc>
+<episode-num system="onscreen">T6 E93</episode-num>
+<episode-num system="xmltv_ns">5.92.</episode-num>
+</programme>
+<programme start="20260817110000 -0500" stop="20260817112900 -0500" channel="Disney Channel Latin America (1080p)">
+<title lang="es">Liv y Maddie</title>
+<sub-title lang="es">Rooney-Ridgewood</sub-title>
+<desc lang="es">Parker se muda a Ridgewood High School y Maddie y Joey se ponen celosos porque él se está convirtiendo en el mejor en todo. Luego, Karen les dice a Maddie y Joey que Parker siente que no encaja.</desc>
+<episode-num system="onscreen">T3 E10</episode-num>
+<episode-num system="xmltv_ns">2.9.</episode-num>
+</programme>
+<programme start="20260817112900 -0500" stop="20260817115800 -0500" channel="Disney Channel Latin America (1080p)">
+<title lang="es">Programa de talentos</title>
+<sub-title lang="es">Red de talentos</sub-title>
+<desc lang="es">Como castigo a una broma de chyna, la directora Skidmore decide cortar la conexión a internet del colegio.</desc>
+<episode-num system="onscreen">T2 E5</episode-num>
+<episode-num system="xmltv_ns">1.4.</episode-num>
+</programme>
+<programme start="20260817115800 -0500" stop="20260817122600 -0500" channel="Disney Channel Latin America (1080p)">
+<title lang="es">Los hechiceros de Waverly Place</title>
+<sub-title lang="es">Hechiceros vs. Finkles</sub-title>
+<desc lang="es">Los padres de Harper llegan de visita y le piden que se una a su espectáculo, pero ella se niega. Alex se siente miserable, pero intenta ayudar a los Finkles obtener una tocada en Rumania.</desc>
+<episode-num system="onscreen">T3 E23</episode-num>
+<episode-num system="xmltv_ns">2.22.</episode-num>
+</programme>
+<programme start="20260817122600 -0500" stop="20260817125900 -0500" channel="Disney Channel Latin America (1080p)">
+<title lang="es">Es tan Raven</title>
+<sub-title lang="es">Fur Better or Worse</sub-title>
+<desc lang="es">Raven crea un suéter con piel de animal auténtica.</desc>
+<episode-num system="onscreen">T4 E12</episode-num>
+<episode-num system="xmltv_ns">3.11.</episode-num>
+</programme>
+<programme start="20260817125900 -0500" stop="20260817132900 -0500" channel="Disney Channel Latin America (1080p)">
+<title lang="es">Los hechiceros más allá de Waverly Place</title>
+<sub-title lang="es">El peluche adecuado</sub-title>
+<desc lang="es">Sin sus poderes, Billie se ve obligada a recurrir a la ayuda de un viejo enemigo, para poder infiltrarse en las instalaciones mágicas más seguras del mundo.</desc>
+<episode-num system="onscreen">T3 E33</episode-num>
+<episode-num system="xmltv_ns">2.32.</episode-num>
+</programme>
+<programme start="20260817132900 -0500" stop="20260817135900 -0500" channel="Disney Channel Latin America (1080p)">
+<title lang="es">Kiff</title>
+<sub-title lang="es">OTDR / Buenos días escuela Table Town</sub-title>
+<desc lang="es">Los Chatterley y Barry intentan prepararse para un gran evento. / Kiff y el equipo realizan los anuncios matutinos en la escuela y la situación se sale de control.</desc>
+<episode-num system="onscreen">T2 E37</episode-num>
+<episode-num system="xmltv_ns">1.36.</episode-num>
+</programme>
+<programme start="20260817135900 -0500" stop="20260817142900 -0500" channel="Disney Channel Latin America (1080p)">
+<title lang="es">ZOMBIES: La serie re-animada</title>
+<sub-title lang="es">Quiero bailar con Lizombie</sub-title>
+<desc lang="es">Addison usa poderes alienígenas avanzados para los que aún no está preparada y sin darse cuenta causa destrucción en el gran baile de la escuela.</desc>
+<episode-num system="onscreen">T1 E19</episode-num>
+<episode-num system="xmltv_ns">0.18.</episode-num>
+</programme>
+<programme start="20260817142900 -0500" stop="20260817150000 -0500" channel="Disney Channel Latin America (1080p)">
+<title lang="es">Moon Girl y Devil, el dinosaurio</title>
+<sub-title lang="es">La consentida de la clase</sub-title>
+<desc lang="es">Cuando Devil se pone celoso de compartir a Lunella con su hámster de la clase y accidentalmente libera al animal, debe buscar en la ciudad de Nueva York para llevar a casa al amigo peludo.</desc>
+<episode-num system="onscreen">T1 E8</episode-num>
+<episode-num system="xmltv_ns">0.7.</episode-num>
+</programme>
+<programme start="20260817150000 -0500" stop="20260817153000 -0500" channel="Disney Channel Latin America (1080p)">
+<title lang="es">Moon Girl y Devil, el dinosaurio</title>
+<sub-title lang="es">Adiós a los comerciales</sub-title>
+<desc lang="es">Lunella crea un dispositivo que le permite avanzar rápidamente a través de tareas y tareas mundanas, pero le cuesta manejar los efectos secundarios inesperados.</desc>
+<episode-num system="onscreen">T1 E9</episode-num>
+<episode-num system="xmltv_ns">0.8.</episode-num>
+</programme>
+<programme start="20260817153000 -0500" stop="20260817160000 -0500" channel="Disney Channel Latin America (1080p)">
+<title lang="es">Prodigiosa: las aventuras de Ladybug</title>
+<sub-title lang="es">Jugador 2.0</sub-title>
+<desc lang="es">Cuando no puede encontrar a nadie para probar su videojuego que enfrenta a los villanos anteriormente akumatizados entre sí, Max vuelve a convertirse en uno: Gamer 2.0. ¡Que empiecen los juegos!</desc>
+<episode-num system="onscreen">T3 E20</episode-num>
+<episode-num system="xmltv_ns">2.19.</episode-num>
+</programme>
+<programme start="20260817160000 -0500" stop="20260817163000 -0500" channel="Disney Channel Latin America (1080p)">
+<title lang="es">Los Green en la gran ciudad</title>
+<sub-title lang="es">Rembo / El frasco de tierra</sub-title>
+<desc lang="es">Remy está decidido a ser un guerrero de las artes marciales después de congelarse ante el peligro. El tarro de basura perdido de Cricket da pie a la historia de cuando los Green abandonaron su granja en el campo.</desc>
+<episode-num system="onscreen">T3 E9</episode-num>
+<episode-num system="xmltv_ns">2.8.</episode-num>
+</programme>
+<programme start="20260817163000 -0500" stop="20260817165900 -0500" channel="Disney Channel Latin America (1080p)">
+<title lang="es">Dragon Striker</title>
+<sub-title lang="es">El armero de Mestras</sub-title>
+<desc lang="es">Los Caballeros pasan el día en Mestras arreglando sus armaduras antes de que empiece la temporada.</desc>
+<episode-num system="onscreen">T1 E5</episode-num>
+<episode-num system="xmltv_ns">0.4.</episode-num>
+</programme>
+<programme start="20260817165900 -0500" stop="20260817173000 -0500" channel="Disney Channel Latin America (1080p)">
+<title lang="es">Los hechiceros más allá de Waverly Place</title>
+<sub-title lang="es">Hechízame, cariño, una vez más</sub-title>
+<desc lang="es">Cuando Roman se destaca en sus lecciones de mago, Billie se siente amenazada y usa una maldición inversa para frenarlo, pero accidentalmente lo convierte en un bebé.</desc>
+<episode-num system="onscreen">T2 E1</episode-num>
+<episode-num system="xmltv_ns">1.0.</episode-num>
+</programme>
+<programme start="20260817173000 -0500" stop="20260817180000 -0500" channel="Disney Channel Latin America (1080p)">
+<title lang="es">Phineas y Ferb</title>
+<sub-title lang="es">Doble personalidad / Fuga cerebral</sub-title>
+<desc lang="es">Candace se para frente a un rayo y éste cae accidentalmente sobre ella. El rayo la divide en dos personalidades diferentes. / Phineas y Ferb están encerrados en casa por culpa de un resfrío.</desc>
+<episode-num system="onscreen">T2 E36</episode-num>
+<episode-num system="xmltv_ns">1.35.</episode-num>
+</programme>
+<programme start="20260817180000 -0500" stop="20260817182900 -0500" channel="Disney Channel Latin America (1080p)">
+<title lang="es">Vampirina: una vampirina adolescente</title>
+<sub-title lang="es">El primer baile</sub-title>
+<desc lang="es">Falta poco para el baile de bienvenida de Wilson Hall, y Vee y Elijah tienen problemas con los desequilibrios de poder. Mientras tanto, Sophie busca su propia identidad como D.J.</desc>
+<episode-num system="onscreen">T1 E3</episode-num>
+<episode-num system="xmltv_ns">0.2.</episode-num>
+</programme>
+<programme start="20260817182900 -0500" stop="20260817185900 -0500" channel="Disney Channel Latin America (1080p)">
+<title lang="es">Jessie</title>
+<sub-title lang="es">La encantadora de niños</sub-title>
+<desc lang="es">Jessie solicita la ayuda de Samantha, una niñera colega, luego de que Luke continúa comportándose mal. Sin embargo, Jessie descubre más adelante que en realidad Samantha es una niñera de perros.</desc>
+<episode-num system="onscreen">T1 E15</episode-num>
+<episode-num system="xmltv_ns">0.14.</episode-num>
+</programme>
+<programme start="20260817185900 -0500" stop="20260817193700 -0500" channel="Disney Channel Latin America (1080p)">
+<title lang="es">Champeta: el ritmo de la Tierra</title>
+<sub-title lang="es">Bailando con el enemigo</sub-title>
+<desc lang="es">La verdadera identidad de Simon se revela a todos, lo que provoca que Vera se enfurezca y se aleje. Un nuevo dilema divide al grupo: ¿deberían aliarse con Simon para aprovechar sus poderes o temer una posible traición?</desc>
+<episode-num system="onscreen">T2 E6</episode-num>
+<episode-num system="xmltv_ns">1.5.</episode-num>
+</programme>
+<programme start="20260817193700 -0500" stop="20260817200000 -0500" channel="Disney Channel Latin America (1080p)">
+<title lang="es">Acampados</title>
+<sub-title lang="es">Griff está entre nosotros</sub-title>
+<desc lang="es">Los niños Ross cambian su ático por el Campamento Kikiwaka durante el verano sólo para encontrar un nuevo consejero en la cabaña Woodchuck.</desc>
+<episode-num system="onscreen">T2 E1</episode-num>
+<episode-num system="xmltv_ns">1.0.</episode-num>
+</programme>
+<programme start="20260817200000 -0500" stop="20260817203000 -0500" channel="Disney Channel Latin America (1080p)">
+<title lang="es">Hannah Montana</title>
+<sub-title lang="es">Somos novios</sub-title>
+<desc lang="es">Hannah regresa de hacer una película y descubre que Lilly y Oliver han estado saliendo en secreto. Cuando ellos rompen ella necesita todas sus habilidades diplomáticas.</desc>
+<episode-num system="onscreen">T3 E13</episode-num>
+<episode-num system="xmltv_ns">2.12.</episode-num>
+</programme>
+<programme start="20260817203000 -0500" stop="20260817210000 -0500" channel="Disney Channel Latin America (1080p)">
+<title lang="es">Electric Bloom: La mejor banda del mundo</title>
+<sub-title lang="es">Cómo arrasamos en el baile de bienvenida</sub-title>
+<desc lang="es">A Posey le preocupa que Shelly Sharp esté enojada con ella después de que Electric Bloom ganara el puesto en la presentación de bienvenida. Al final, Posey descubre que no le va a caer bien a todo el mundo, y eso está bien.</desc>
+<episode-num system="onscreen">T1 E3</episode-num>
+<episode-num system="xmltv_ns">0.2.</episode-num>
+</programme>
+<programme start="20260817210000 -0500" stop="20260817213000 -0500" channel="Disney Channel Latin America (1080p)">
+<title lang="es">Acampados</title>
+<sub-title lang="es">Mo-Squito Mo Problem</sub-title>
+<desc lang="es">Matteo quiere inventar un repelente para mosquitos, pero termina atribuyéndose el mérito por algo que Gwen inventó.</desc>
+<episode-num system="onscreen">T4 E11</episode-num>
+<episode-num system="xmltv_ns">3.10.</episode-num>
+</programme>
+<programme start="20260817213000 -0500" stop="20260817220100 -0500" channel="Disney Channel Latin America (1080p)">
+<title lang="es">La casa de Raven</title>
+<sub-title lang="es">Los años adormilados</sub-title>
+<desc lang="es">Los chicos no pueden usar sus dispositivos electrónicos cuando van a dormir, pero ellos están ansiosos por desobedecer a los adultos.</desc>
+<episode-num system="onscreen">T4 E15</episode-num>
+<episode-num system="xmltv_ns">3.14.</episode-num>
+</programme>
+<programme start="20260817220100 -0500" stop="20260817222900 -0500" channel="Disney Channel Latin America (1080p)">
+<title lang="es">Liv y Maddie</title>
+<sub-title lang="es">La Rooney-piyamada</sub-title>
+<desc lang="es">Parker hace una pijamada en su casa y Liv es la responsable de cuidar a los chicos. Maddie se junta a estudiar con su amiga, Willow, porque tiene una entrega de historia al día siguiente.</desc>
+<episode-num system="onscreen">T4 E5</episode-num>
+<episode-num system="xmltv_ns">3.4.</episode-num>
+</programme>
+<programme start="20260817222900 -0500" stop="20260817225800 -0500" channel="Disney Channel Latin America (1080p)">
+<title lang="es">Moon Girl y Devil, el dinosaurio</title>
+<sub-title lang="es">Moon Girl se toma un día</sub-title>
+<desc lang="es">Cuando Lunella aparentemente se lastima y debe quedarse en cama, Casey debe intervenir como Moon Girl por el día.</desc>
+<episode-num system="onscreen">T1 E10</episode-num>
+<episode-num system="xmltv_ns">0.9.</episode-num>
+</programme>
+<programme start="20260817225800 -0500" stop="20260817232600 -0500" channel="Disney Channel Latin America (1080p)">
+<title lang="es">Moon Girl y Devil, el dinosaurio</title>
+<sub-title lang="es">De tal palo, tal Moon Girl</sub-title>
+<desc lang="es">Moon Girl se convierte en la imagen de una iniciativa para mejorar el Lower East Side, pero sus esfuerzos empiezan a cambiar drásticamente al barrio para peor.</desc>
+<episode-num system="onscreen">T1 E11</episode-num>
+<episode-num system="xmltv_ns">0.10.</episode-num>
+</programme>
+<programme start="20260817232600 -0500" stop="20260817233800 -0500" channel="Disney Channel Latin America (1080p)">
+<title lang="es">ZOMBIES: La serie re-animada</title>
+<sub-title lang="es">El último fan de pie</sub-title>
+<desc lang="es">Zed mira videos graciosos en "Shrimp Tok" y termina teniendo que salvar a la humanidad. Dae y Bree usan magia negra para demostrar que son la banda favorita de sus fans.</desc>
+<episode-num system="onscreen">T1 E10</episode-num>
+<episode-num system="xmltv_ns">0.9.</episode-num>
+</programme>
+<programme start="20260817233800 -0500" stop="20260817235100 -0500" channel="Disney Channel Latin America (1080p)">
+<title lang="es">Tara Duncan</title>
+<sub-title lang="es">La tetera</sub-title>
+<desc lang="es">Angélica se esfuerza mucho por conseguir una tetera de la que se enamoró. Pero cuando finalmente lo logra, descubre que el Rey Monstruo se había refugiado en él.</desc>
+<episode-num system="onscreen">T1 E34</episode-num>
+<episode-num system="xmltv_ns">0.33.</episode-num>
+</programme>
+<programme start="20260817235100 -0500" stop="20260818001400 -0500" channel="Disney Channel Latin America (1080p)">
+<title lang="es">Prodigiosa: las aventuras de Ladybug</title>
+<sub-title lang="es">Festín</sub-title>
+<desc lang="es">Ladybug y Cat Noir no solo enfrentarán a Hawk Moth, sino también a la villana Mayura.</desc>
+<episode-num system="onscreen">T3 E16</episode-num>
+<episode-num system="xmltv_ns">2.15.</episode-num>
+</programme>
+<programme start="20260818001400 -0500" stop="20260818003600 -0500" channel="Disney Channel Latin America (1080p)">
+<title lang="es">The Owl House - La Casa Búho</title>
+<sub-title lang="es">Problemas muy pequeños</sub-title>
+<desc lang="es">King confía en un adivino del carnaval que hace realidad su sueño, pero tiene un costo.</desc>
+<episode-num system="onscreen">T1 E14</episode-num>
+<episode-num system="xmltv_ns">0.13.</episode-num>
+</programme>
+<programme start="20260818003600 -0500" stop="20260818010400 -0500" channel="Disney Channel Latin America (1080p)">
+<title lang="es">Los Green en la gran ciudad</title>
+<sub-title lang="es">Día de los inocentes / Santa tristeza</sub-title>
+<desc lang="es">Cricket intenta idear la broma perfecta para gastarle a su novia el Día de los Inocentes. / Bill hace todo lo posible para evitar que Tilly experimente el dolor.</desc>
+<episode-num system="onscreen">T4 E15</episode-num>
+<episode-num system="xmltv_ns">3.14.</episode-num>
+</programme>
+<programme start="20260818010400 -0500" stop="20260818012800 -0500" channel="Disney Channel Latin America (1080p)">
+<title lang="es">Acampados</title>
+<sub-title lang="es">Tres estrellas y un bebé</sub-title>
+<desc lang="es">Cuando Lou le pide a los campistas que completen las evaluaciones de los consejeros, Ava teme por las calificaciones.</desc>
+<episode-num system="onscreen">T4 E16</episode-num>
+<episode-num system="xmltv_ns">3.15.</episode-num>
+</programme>
+</tv>
